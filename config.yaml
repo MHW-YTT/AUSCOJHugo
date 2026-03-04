@@ -2,7 +2,7 @@ baseurl: https://blog2.auoj.ytt0.top/
 languageCode: zh-cn
 theme: hugo-theme-stack
 paginate: 5
-title: Example Site
+title: 演示站点
 
 languages:
   zh-cn:
